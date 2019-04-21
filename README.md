@@ -1,5 +1,5 @@
 # GoJack
-Simple-Jack with CICD Pipeline within Jenkinsfile on Azure
+Simple-Jack with CICD Pipeline within Jenkinsfile on Azure DevOps / AWS Amplify & CodeStar
 1. Get Code to Port on AWS Dev/OPS product using Free Account
 2. Get Code to Port on Azure Dev/OPS product using Free Account
 
