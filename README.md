@@ -3,6 +3,7 @@
 ![alt text](https://github.com/brac10/markdown-here/raw/master/src/common/images/iconStrikeSwiftly48.png "Strike Swiftly")
 ![alt text](https://github.com/brac10/markdown-here/raw/master/src/common/images/iconRecondo48.png "Tip of the Spear")
 ![alt text](https://github.com/brac10/markdown-here/raw/master/src/common/images/iconRanerUp48.png "Lead, Follow, Get out of the way")
+![alt text](https://github.com/brac10/markdown-here/raw/master/src/common/images/iconNDM48.png "National Defense")
 
 1. Get Code to Port on AWS Dev/OPS product using Free Account
 2. Get Code to Port on Azure Dev/OPS product using Free Account
